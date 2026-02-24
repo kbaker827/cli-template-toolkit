@@ -1,0 +1,14 @@
+{
+  "name": "cli-template-toolkit",
+  "version": "1.0.0",
+  "description": "CLI application templates and patterns for Python. Extracted from 12+ CLI tools via Ralph Loop analysis.",
+  "author": "Ralph Loop / Kyle Baker",
+  "generated": "2026-02-24",
+  "source": "ralph-loop-analysis",
+  "patterns": [
+    "argparse",
+    "colored-output",
+    "progress-bars",
+    "logging"
+  ]
+}
